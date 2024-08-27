@@ -1,6 +1,6 @@
 # GraduateThesis
 
-We are students from University of Information Technology - a member school of Vietnam National University
+We are students from University of Information Technology -  a member of Vietnam National University, Ho Chi Minh City
 
 This is our Graduate Thesis
 
@@ -11,7 +11,7 @@ This is our Graduate Thesis
 Writing has played a significant role in human history, serving as a vital tool for transmitting information, knowledge, and experiences to future generations. In the digital age, the demand for detecting and recognizing text in images and videos has led to the development of Scene Text Recognition (STR), attracting considerable interest from the research community.
 
 - Input: Photos containing text to be recognized
-- Output: Nội dung văn bản trong ảnh
+- Output: Text content in photos
 
 ![alt text](images/STR_Input_Output.png)
 <p style="text-align: center;">
